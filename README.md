@@ -1,2 +1,2 @@
-# index.php
+# latihan
 latihan
